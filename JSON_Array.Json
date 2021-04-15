@@ -26,9 +26,9 @@
         ]
     },
     {
-        "firstname": "Kevin",
-        "height": "180",
-        "email": "kevin@gmail.com",
+        "firstname": "wifi",
+        "height": "199",
+        "email": "wifi@gmail.com",
         "city": [
             {
                 "通訊地址": "台中"
@@ -46,15 +46,15 @@
             }
         ],
         "cars": [
-            "BMW",
-            "Nissan GT-R",
-            "Audi"
+            "BMW wifi",
+            "Nissan GT-R wifi",
+            "Audi wifi"
         ]
     },
     {
-        "firstname": "Kevin",
-        "height": "180",
-        "email": "kevin@gmail.com",
+        "firstname": "Monday",
+        "height": "168",
+        "email": "Monday@gmail.com",
         "city": [
             {
                 "通訊地址": "高雄"
@@ -72,9 +72,9 @@
             }
         ],
         "cars": [
-            "BMW",
-            "Nissan GT-R",
-            "Audi"
+            "BMW Monday",
+            "Nissan GT-R Monday",
+            "Audi Monday"
         ]
     }
 ]
